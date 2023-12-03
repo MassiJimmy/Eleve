@@ -1,0 +1,13 @@
+C:\Users\jimmy\source\repos\Eleve\Eleve\bin\Debug\netcoreapp3.1\Eleve.exe
+C:\Users\jimmy\source\repos\Eleve\Eleve\bin\Debug\netcoreapp3.1\Eleve.deps.json
+C:\Users\jimmy\source\repos\Eleve\Eleve\bin\Debug\netcoreapp3.1\Eleve.runtimeconfig.json
+C:\Users\jimmy\source\repos\Eleve\Eleve\bin\Debug\netcoreapp3.1\Eleve.runtimeconfig.dev.json
+C:\Users\jimmy\source\repos\Eleve\Eleve\bin\Debug\netcoreapp3.1\Eleve.dll
+C:\Users\jimmy\source\repos\Eleve\Eleve\bin\Debug\netcoreapp3.1\Eleve.pdb
+C:\Users\jimmy\source\repos\Eleve\Eleve\obj\Debug\netcoreapp3.1\Eleve.csprojAssemblyReference.cache
+C:\Users\jimmy\source\repos\Eleve\Eleve\obj\Debug\netcoreapp3.1\Eleve.AssemblyInfoInputs.cache
+C:\Users\jimmy\source\repos\Eleve\Eleve\obj\Debug\netcoreapp3.1\Eleve.AssemblyInfo.cs
+C:\Users\jimmy\source\repos\Eleve\Eleve\obj\Debug\netcoreapp3.1\Eleve.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\source\repos\Eleve\Eleve\obj\Debug\netcoreapp3.1\Eleve.dll
+C:\Users\jimmy\source\repos\Eleve\Eleve\obj\Debug\netcoreapp3.1\Eleve.pdb
+C:\Users\jimmy\source\repos\Eleve\Eleve\obj\Debug\netcoreapp3.1\Eleve.genruntimeconfig.cache
